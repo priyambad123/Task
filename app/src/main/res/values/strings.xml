@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CHERUVU</string>
+    <string name="error">Wrong password please try again</string>
+</resources>
